@@ -1,0 +1,37 @@
+.cyto-graph {
+    height: 640px;
+    width: 100%;
+    background: #f2f3f4;
+    border: 1px solid #cacaca;
+  }
+
+
+  .ctrl-panel {
+    height: 80px;
+    width: 100%;
+    border: 1px solid #cacaca;
+    background-color: #ffffff;
+  }
+  
+  .ctrl-button {
+    width: 100px;
+    color: black;
+    background-color: #f2f3f4;
+    padding: 10px 5px 10px 5px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 50px;
+  }
+  
+  .ctrl-counter {
+    width: 110px;
+    padding: 10px 10px 10px 10px;
+    margin-left: 50%;
+    border-radius: 5px;
+    display: inline-block;
+    border: 1px solid #cacaca;
+  }
+  
+  span {
+    font-size: 22px;
+  }

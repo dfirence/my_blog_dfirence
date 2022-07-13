@@ -1,0 +1,1 @@
+(self.webpackChunkmitre_assistant=self.webpackChunkmitre_assistant||[]).push([[195],{9526:function(e,t,n){"use strict";n.r(t),n.d(t,{default:function(){return i}});var r=n(67294),s=(n(32611),n(36742),n(44996),n(52263),n(5977));function i(){return r.createElement(s.l_,{to:"/docs/project/Brief_Overview"})}}}]);
